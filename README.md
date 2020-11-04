@@ -15,6 +15,9 @@
         
   - *MacFab* : 
     - aim : 4 tools to reconstruct transcipt isoforms from nanopore
+    - mehod :
+      - snakemake
+      - short description of the 4 methods
     - results 
       - nb of isoforms /genes 
       - knonwn vs novel isoforms/genes
@@ -22,5 +25,11 @@
       - lncRNAs vs mRNA reconstruction
       
 **Ccl/perspectives/ToDo list**
+  - Manopore:
+     - add new guppy versions (`bonito`)
+  - MacFab 
+     - new macfab methods ?
+     - Transcript validation (TTS = CAGE ; TSS = tailFinder)  
+  
       
     
