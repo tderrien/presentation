@@ -11,6 +11,7 @@
       - results : 
         - [QC : nanocomp plots on DCS109, Number of reads, median length](http://tools.genouest.org/data/tderrien/igdrion/NanoComp-report-2020-07-24.html)
         - QC: mapping with minimaps (% reads mapped, unmapped...)
+          - from Workman *et al.*: "The 360,000 unaligned pass reads had a median read length of 211 bases."
         - QC : [guppy versions impact on QC](https://gitlab.com/bioinfog/manopore/-/issues/11) 
         
   - *MacFab* : 
