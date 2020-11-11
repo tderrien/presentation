@@ -21,10 +21,12 @@
       - short description of the 4 methods
     - results 
       - Descriptive statistics
-        - per sample
+        - [per sample SQANTI](https://gitlab.com/bioinfog/macfab/uploads/f192cecb3e33a3e80784061088b6e2a8/bambu.CanFam3_sqanti_report.pdf)
+        - comparing samples with [SQUANTI-like output](https://gitlab.com/bioinfog/macfab/uploads/0fc0052879deeaf683006e6a96232bd4/SQANTI_report.pdf). 
         - merging all fastq
           - nb of isoforms /genes 
           - knonwn vs novel isoforms/genes
+          - number of 5' vs 3' extensions vs
       - RGASP-like comparison from macFab
       - [saturated plotversu num reads](https://gitlab.com/bioinfog/macfab/-/issues/10)
         - **at the gn and tx levels**
