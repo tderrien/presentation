@@ -44,6 +44,7 @@
  - Focus on transcriptome reconstruction rather than quantification (no SIRVs)
  - Focus on lncRNAs reconstruction
  - Check talon vs bambu same number of isoforms
+ - Check ORF annotation from SQANTI
   
       
     
