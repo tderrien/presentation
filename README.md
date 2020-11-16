@@ -31,7 +31,7 @@
       - [saturated plotversu num reads](https://gitlab.com/bioinfog/macfab/-/issues/10)
         - **at the gn and tx levels**
       - lncRNAs vs mRNA reconstruction : [RSEQC prelim analysis](https://gitlab.com/bioinfog/macfab/-/issues/13)
-        - lncRNAs have a specific p[RT switching](https://www.sciencedirect.com/science/article/pii/S0888754305003770?via%3Dihub)
+        - lncRNAs may have specific pattern [RT switching](https://www.sciencedirect.com/science/article/pii/S0888754305003770?via%3Dihub) or splicing miasannotation as it is [not reported in RNADirect run](https://gitlab.com/bioinfog/macfab/-/issues/13).
       
 **Ccl/perspectives/ToDo list**
   - Manopore:
